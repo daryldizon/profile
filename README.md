@@ -108,16 +108,16 @@ I craft **end-to-end digital experiences** — from pixel-perfect UIs to rock-so
 <!-- Featured Projects -->
 ## 🏗️ Featured Projects
 
-### 🔗 [DizLink](https://dizlink.com) — Portfolio Builder *(In Progress)*
+### 🔗 [DizLink](https://dizlink.com) — Personal Page Builder *(In Progress)*
 
-> Build and share your personal portfolio in minutes — no coding required.
+> Build and share your personal page in minutes — no coding required.
 
 | | |
 |---|---|
 | 🌐 **Web App** | Live at [dizlink.com](https://dizlink.com) |
 | 📱 **Mobile App** | Coming soon |
 | 🚧 **Status** | In active development |
-| 🛠️ **Type** | No-code portfolio builder |
+| 🛠️ **Type** | No-code web page builder |
 
 ---
 
