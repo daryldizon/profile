@@ -34,6 +34,8 @@ const me = {
 
 I craft **end-to-end digital experiences** — from pixel-perfect UIs to rock-solid backends. I care about clean architecture, developer ergonomics, and shipping things that actually work.
 
+Even without AI, I can build anything in web and mobile — but with AI, I'm **10x more productive**.
+
 ---
 
 <!-- Tech Stack -->
@@ -79,6 +81,7 @@ I craft **end-to-end digital experiences** — from pixel-perfect UIs to rock-so
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -97,7 +100,7 @@ I craft **end-to-end digital experiences** — from pixel-perfect UIs to rock-so
 ## 🚀 What I'm Up To
 
 - 🔭 Currently building **DizLink** app
-- 🤖 Proud **Claude Code** user
+- 🤖 Proud **Claude Code User** and **n8n User**
 - 🌱 Learning **[something new — currently exploring AI and creating no-code website builders]**
 - 👯 Open to collaborate on **interesting start-up projects**
 - 💬 Ask me about **Python, React, Node.js, system design, or career in tech**
