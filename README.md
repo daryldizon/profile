@@ -132,6 +132,7 @@ Even without AI, I can build anything in web and mobile — but with AI, I'm **1
 | | |
 |---|---|
 | 🌐 **Web App** | Live at [dizlink.com](https://dizlink.com) |
+| 📊 **Web Dashboard** | Coming soon |
 | 📱 **Mobile App** | Coming soon |
 | 🚧 **Status** | In active development |
 | 🛠️ **Type** | No-code web page builder |
