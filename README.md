@@ -119,6 +119,7 @@ Even without AI, I can build anything in web and mobile — but with AI, I'm **1
 - 🌱 Learning **[something new — currently exploring AI and creating no-code website builders]**
 - 👯 Open to collaborate on **interesting start-up projects**
 - 💬 Ask me about **Python, React, Node.js, system design, or career in tech**
+- 🔄 Version control journey: started with **Bitbucket**, moved through **GitLab** and **Gitea**, and now I'm back home on **GitHub**
 - ⚡ Fun fact: I can spot an off-by-one error faster than I can spell it
 
 ---
