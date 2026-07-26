@@ -34,7 +34,7 @@ const me = {
 
 I craft **end-to-end digital experiences** — from pixel-perfect UIs to rock-solid backends. I care about clean architecture, developer ergonomics, and shipping things that actually work.
 
-Even without AI, I can build anything in web and mobile — but with AI, I'm **10x more productive**.
+I can build anything in web and mobile — AI just helps me get there faster.
 
 ---
 
